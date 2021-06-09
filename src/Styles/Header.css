@@ -1,0 +1,82 @@
+.Rectangle{
+    width: 151px;
+  height: 61px;
+  margin: 50px 600px 50px 600px;
+ 
+  border-radius: 8px;
+  border: solid 1px #eae9f2;
+  background-color: #ffffff;
+  justify-content: center;
+}
+.covet{
+
+margin-left: 4px;
+margin-top: 3px;
+  object-fit: contain;
+  color: #9b41bf;
+  justify-content: center;
+}
+.web{
+    margin-left: 300px;
+}
+
+.p1{
+    margin-left: 200px;
+}
+.details{
+    margin-left: 400px;
+    text-align: center;
+    width: 515px;
+  height: 78px;
+
+  font-family: CircularStd;
+  font-size: 21px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: -0.66px;
+  text-align: center;
+  color: #696871;
+}
+.img{
+    width:996px;
+    height: 600px;
+}
+
+.container{
+    width:40%;
+    height:30%;
+    display: flex;
+    justify-content: space-between;
+}
+.imgcontainer{
+    margin-left: 10px;
+    width: 600px;
+    height:410px;
+    padding-left: 100px;
+}
+
+.main{
+    display: flex;
+    
+
+}
+
+.main_one{
+    width:400px;
+  height: 400px;
+
+  padding-left: 100px;
+}
+
+.main_two{
+    width:400px;
+  height: 400px;
+
+}
+.main_three{
+    width:400px;
+  height: 400px;
+
+}

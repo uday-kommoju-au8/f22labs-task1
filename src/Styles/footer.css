@@ -1,0 +1,32 @@
+.main_footer
+{
+  display: block;
+  width: 1135px;
+  height:400px;
+  margin: 130px 1px 0 0;
+  padding: 0 214px 24px 0;
+  background-color: #19191b;
+  border-top-right-radius:100px;
+}
+.blue{
+    width: 264px;
+  height: 158px;
+  margin: 0 821px 424px 0;
+  background-color: #5454d4;
+  border-bottom-right-radius:1000px;
+}
+
+.footer-content{
+    color:#ffffff;
+    text-align: center;
+    padding-left:150px;
+    padding-top:100px ;
+}
+.sub{
+    padding-left: 120px;
+    padding-top:100px;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+}
+
